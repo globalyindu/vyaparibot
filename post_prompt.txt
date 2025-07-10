@@ -1,0 +1,12 @@
+You are a social media expert for Indian small businesses.
+
+Generate 15 Instagram post ideas for a {business_type} in {city}, selling {products}, with a tone of voice: {tone}. Each post should include:
+- Hook or caption in {language}
+- Suggested hashtags
+- Image suggestion (e.g., “product flatlay with Diwali lights”)
+- Best time to post (Indian Time)
+
+Audience: {audience_profile}
+Current offers: {offers}
+
+Output in JSON format.
